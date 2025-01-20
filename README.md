@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violetgminisj25&show_icons=true&locale=en" alt="violetgminisj25" /></p>
 
-![](https://hit.yhype.me/github/profile?account_id=111884715)
+
