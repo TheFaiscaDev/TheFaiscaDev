@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web frontend and game developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=violetgminisj25&label=Profile%20views&color=0e75b6&style=flat" alt="violetgminisj25" /> </p>
+![](https://hit.yhype.me/github/profile?account_id=111884715)
 
 - 🔭 I’m currently working on [PirateGame](https://github.com/VioletGminisJ25/PirateGame)
 
