@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=violetgminisj25&label=Profile%20views&color=0e75b6&style=flat" alt="violetgminisj25" /> </p>
 
 
-- 🔭 I’m currently working on [PirateGame](https://github.com/VioletGminisJ25/TideBound)
+- 🔭 I’m currently working on [TideBound](https://github.com/VioletGminisJ25/TideBound)
 
 - 🌱 I’m currently learning **Astro, .NET, Laravel, LibGdx**
 
